@@ -28,7 +28,7 @@ These accuracy scores provide a quantitative measure of each model's effectivene
 
 ### Exploratory Notebook
 
-- [exploration.ipynb](Data_Exploration/exploration.ipynb): This notebook dives into the dataset, providing comprehensive data exploration, visualization, and insights. It serves as a foundation for subsequent modeling efforts.
+- [exploration.ipynb](Data_Exploration/Data_Exploration.ipynb): This notebook dives into the dataset, providing comprehensive data exploration, visualization, and insights. It serves as a foundation for subsequent modeling efforts.
 
 ### Model Notebooks
 
