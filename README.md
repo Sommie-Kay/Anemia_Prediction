@@ -43,3 +43,8 @@ These accuracy scores provide a quantitative measure of each model's effectivene
 ### Confusion Matrices
 
 - Confusion matrices are provided for each model, offering a detailed breakdown of true positive, true negative, false positive, and false negative predictions. These matrices facilitate a deeper understanding of model performance.
+
+## Conclusion
+The DEcision Tree Classifier as well as the Random Forest Classifier showed better accuracy , hence these models can be used for prediction.
+
+The hemoglobin levels at different altitudes offer valuable insights into the overall health condition of individuals. There is a distinct correlation between smoking and hemoglobin levels, suggesting that this habit has an impact on hemoglobin.
